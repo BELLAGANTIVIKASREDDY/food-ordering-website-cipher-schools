@@ -1,0 +1,47 @@
+.signin{
+    background-color: rgb(255, 0, 162);
+    width: 600px;
+    margin-left: 28%;
+}
+#email{
+    background-color: rgb(87, 30, 210);
+    width: 300px;
+    height: 40px;
+    border-radius: 18px;
+    margin-left: 25%;
+}
+#password{
+    background-color: rgb(240, 8, 8);
+    width: 300px;
+    height: 40px;
+    border-radius: 18px;
+    margin-left: 25%;
+}
+#btn1{
+    background-color: rgb(120, 236, 188);
+    width: 200px;
+    height: 40px;
+    border-radius: 8px;
+    color: rgb(10, 233, 33);
+    margin-left: 35%;
+    cursor: pointer;
+}
+#btn2{
+    background-color: rgb(9, 84, 135);
+    width: 200px;
+    height: 40px;
+    border-radius: 8px;
+    color: rgb(214, 246, 9);
+    margin-left: 35%;
+}
+#h1{
+    text-align: center;
+}
+#h3{
+    text-align: center;
+}
+#chicken{
+    float: right;
+    padding-right: 700px;
+    
+}
